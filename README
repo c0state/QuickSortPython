@@ -1,4 +1,4 @@
 Quicksort in Python
 
-Naive implementation using O(n) memory
+In-place implementation
 
